@@ -32,16 +32,36 @@ github.com/Isabelopez02
 
 
 
-<div >
-  
-## Tecnologías usadas
+<div align="center">
 
-<!-- Tech stack using skillicons.dev -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,figma,github,html,angular,java,js,mysql,postman,react,tailwind,ts,vscode,python,nodejs,aws,azure,bootstrap" />
-</a>
+## 🛠️ Tecnologías usadas
+
+<table>
+  <tr>
+    <th> Base de Datos</th>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Herramientas</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap,tailwind" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,discord" />
+    </td>
+  </tr>
+</table>
 
 </div>
+
+
 
 ---
 <h2>Trabajos :octocat:</h2>
