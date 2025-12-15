@@ -92,4 +92,4 @@ github.com/Isabelopez02
 <hr style="border: 0; height: 1px; background: #30363d; margin: 10px 0;" />
 
 <small> *El código es poesía, cada línea cuenta una historia*</small> <br>
-<small> *Última actualización: Noviembre 2023* </small>
+<small> *Última actualización: Noviembre 2025* </small>
