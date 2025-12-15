@@ -44,28 +44,23 @@ github.com/Isabelopez02
 </div>
 
 ---
-<h2>GitHub :octocat:</h2>
+<h2>Trabajos :octocat:</h2>
 
 <p align="center">
 <table align="left">
 <tr border="none">
 
-<td width="60%" align="center">
-  <img src="assets/img1.png" alt="GitHub Streak" />
+<td width="50%" align="center">
+  <img src="img1.png" alt="GitHub Streak" />
 </td>
 
-<td width="40%" align="center">
-  <img src="assets/img2.png" alt="Top Languages" />
+<td width="50%" align="center">
+  <img src="img2.png" alt="Top Languages" />
 </td>
 
 </tr>
 </table>
 </p>
-
-<p align="center">
-  <img src="assets/img3.png" alt="GitHub Stats" />
-</p>
-
 
 <!-- Analisis de dashboard -->
 
