@@ -71,7 +71,7 @@ github.com/Isabelopez02
 <tr border="none">
 
 <td width="50%" align="center">
-  <img src="img1.png" alt="GitHub Streak" />
+  <img src="assets/img1.png" alt="GitHub Streak" />
 </td>
 
 <td width="50%" align="center">
